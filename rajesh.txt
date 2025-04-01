@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="image.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="WhatsApp Image 2025-04-01 at 11.40.34 AM.jpeg" alt="Your Profile Picture" class="profile-picture">
             <h1>Rajesh G</h1>
             <p>am a coputerstudent</p>
         </div>
